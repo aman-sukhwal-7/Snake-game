@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #282828;
+}
+#mycanvas{
+    background-image: url("Assets/bg.jpg");
+    border:2.5px solid green;
+    display: block;
+    margin: 0 auto;
+}
